@@ -13,7 +13,12 @@ algortmo evolutivo recontrucción de imagenes  a escala de grises
 Programa en python que reconstruye imagenes en escala de grises, recibiendo como entrada la imagen original, de la que generará, 300 imagenes con figuras geometricas aleatorias para convinarlas y generar nuevas, mediante las cuales, llegara a reconstruir la imagen original a travez de el paso de generaciones que se recombinan iterativamente.
 
 ## Capturas<a name="video"></a>
+generaciones 400,1200,6200 y 36600: 
 
+![generacion 400](https://github.com/LeonardoCarrillo21/AE_Reconstructor_de_imagenes/assets/83992677/97afd215-3eca-489a-b8a2-9c8add3eca64)
+![generacion 1200](https://github.com/LeonardoCarrillo21/AE_Reconstructor_de_imagenes/assets/83992677/118b8f75-3e04-42f1-b9fe-ef5de81f6e49)
+![generacion 6200](https://github.com/LeonardoCarrillo21/AE_Reconstructor_de_imagenes/assets/83992677/21d6120e-9453-4535-adcc-209b374d54e3)
+![generacion 36600](https://github.com/LeonardoCarrillo21/AE_Reconstructor_de_imagenes/assets/83992677/ba1ce412-fdff-46a7-90a6-eea4ec2f029d)
 
 <hr>
 
